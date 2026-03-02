@@ -17,3 +17,10 @@ li {
     width: 250px;
     border: 1px solid black;
 }
+
+.copy-right{
+    position: absolute;
+    bottom: 10px;
+    text-align: center;
+    width: 100%;
+}
